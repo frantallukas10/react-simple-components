@@ -14,12 +14,17 @@ JSX or Javascript SML syntax for describing the ui, rendering lists, conditional
 ## Counter component
 
 ![Counter component](./images/1-counter-component/1.png)
+
 ![Counter component](./images/1-counter-component/2.png)
+
 ## Movies component
 
 ![Movies component](./images/2-movies-component/1.png)
+
 ![Movies component](./images/2-movies-component/2.png)
+
 ![Movies component](./images/2-movies-component/3.png)
+
 ![Movies component](./images/2-movies-component/4.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
