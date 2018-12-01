@@ -8,14 +8,14 @@ JSX or Javascript SML syntax for describing the ui, rendering lists, conditional
 
 ## Examples Components:
 
-- [1-Counter component]('./src/components/counter.jsx')
-- [2-Movies component]('./src/components/movies.jsx')
+- [1-Counter component](./src/components/counter.jsx)
+- [2-Movies component](./src/components/movies.jsx)
 
 ## Counter component
 
-![Counter component](./images/1-counter-component/1.png')
+![Counter component](./images/1-counter-component/1.png)
 
-![Counter component](./images/1-counter-component/2.png')
+![Counter component](./images/1-counter-component/2.png)
 
 ## Movies component
 
