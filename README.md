@@ -1,6 +1,6 @@
 # React example components
 
-![React.js]('./images/reactjs.png')
+![React.js](./images/reactjs.png)
 
 ## About examples:
 
