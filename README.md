@@ -6,7 +6,7 @@
 
 JSX or Javascript SML syntax for describing the ui, rendering lists, conditional rendering, handling events and updating the state of components
 
-## Examples Components:
+## Examples of components:
 
 - [1-Counter component](./src/components/counter.jsx)
 - [2-Movies component](./src/components/movies.jsx)
