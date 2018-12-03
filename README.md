@@ -10,16 +10,16 @@ JSX or Javascript SML syntax for describing the ui, rendering lists, conditional
 
 components/:
 
-- [components/counter.jsx](./src/components/counter.jsx)
-- [components/movies.jsx](./src/components/movies.jsx)
+- [./src/components/counter.jsx](./src/components/counter.jsx)
+- [./src/components/movies.jsx](./src/components/movies.jsx)
 
 services/:
 
-- [services/fakeMovieService.js](./src/services/fakeMovieService.js)
+- [./src/services/fakeMovieService.js](./src/services/fakeMovieService.js)
 
 src/App.jsx
 
-- [src/App.jsx](./src/App.jsx)
+- [./src/src/App.jsx](./src/App.jsx)
 
 #Project screenshot:
 
