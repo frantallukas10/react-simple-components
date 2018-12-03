@@ -23,12 +23,12 @@ src/App.jsx
 
 #Project screenshot:
 
-Counter component
+Counter component<br>
 ![Counter component](./images/1-counter-component/1.png)
 
 ![Counter component](./images/1-counter-component/2.png)
 
-Movies component
+Movies component<br>
 ![Movies component](./images/2-movies-component/1.png)
 
 ![Movies component](./images/2-movies-component/2.png)
