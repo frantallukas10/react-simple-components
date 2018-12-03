@@ -15,7 +15,7 @@ components/:
 
 services/:
 
-- [services/fakeMovieService.jsx](./src/services/fakeMovieService.js)
+- [services/fakeMovieService.js](./src/services/fakeMovieService.js)
 
 src/App.jsx
 
