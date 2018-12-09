@@ -19,7 +19,7 @@ services/:
 
 src/App.jsx
 
-- [./src/src/App.jsx](./src/App.jsx)
+- [./src/App.jsx](./src/App.jsx)
 
 #Project screenshot:
 
