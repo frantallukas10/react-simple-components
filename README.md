@@ -6,7 +6,7 @@
 
 JSX or Javascript SML syntax for describing the ui, rendering lists, conditional rendering, handling events and updating the state of components
 
-### Content:
+## Content:
 
 components/:
 
@@ -21,7 +21,7 @@ src/App.jsx
 
 - [./src/App.jsx](./src/App.jsx)
 
-### Project screenshots:
+## Project screenshots:
 
 Counter component<br>
 ![Counter component](./images/1-counter-component/1.png)
