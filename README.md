@@ -21,20 +21,16 @@ src/App.jsx
 
 - [./src/App.jsx](./src/App.jsx)
 
-#Project screenshot:
+#Project screenshots:
 
 Counter component<br>
 ![Counter component](./images/1-counter-component/1.png)
-
 ![Counter component](./images/1-counter-component/2.png)
 
 Movies component<br>
 ![Movies component](./images/2-movies-component/1.png)
-
 ![Movies component](./images/2-movies-component/2.png)
-
 ![Movies component](./images/2-movies-component/3.png)
-
 ![Movies component](./images/2-movies-component/4.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
