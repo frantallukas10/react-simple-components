@@ -21,7 +21,7 @@ src/App.jsx
 
 - [./src/App.jsx](./src/App.jsx)
 
-#Project screenshots:
+### Project screenshots:
 
 Counter component<br>
 ![Counter component](./images/1-counter-component/1.png)
